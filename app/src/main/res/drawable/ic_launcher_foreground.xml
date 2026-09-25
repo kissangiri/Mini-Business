@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Paint can body -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M38,44 L70,44 L66,76 C65.5,80 62,82 58,82 L50,82 C46,82 42.5,80 42,76 Z" />
+    <!-- Paint can rim -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M35,39 C35,37.5 39,36 54,36 C69,36 73,37.5 73,39 C73,40.5 69,42 54,42 C39,42 35,40.5 35,39 Z" />
+    <!-- Paint can handle -->
+    <path
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M37,42 C37,26 71,26 71,42" />
+    <!-- Drip on bucket -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M52,42 C52,42 52,58 56,58 C59,58 58,42 58,42 Z" />
+    <!-- Paint brush / roller accent or wrench cross -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M68,30 L74,24 C75,23 77,23 78,24 L82,28 C83,29 83,31 82,32 L76,38 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M48,52 L48,68 M48,68 L60,68" />
+</vector>

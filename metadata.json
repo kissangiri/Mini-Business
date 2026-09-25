@@ -1,0 +1,6 @@
+{
+  "name": "Goods Manage – Paint & Hardware POS",
+  "description": "Paint & Hardware store management and POS with inventory tracking, boxes and loose-can counters, fast billing, professional GST invoices, sales returns, stock alerts, and offline data safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
